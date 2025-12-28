@@ -1,2 +1,1 @@
-# my-coding-journey--01
-to post what i learned
+first time to create a file in github.
